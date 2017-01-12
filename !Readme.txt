@@ -1,0 +1,1 @@
+put this folder in your localhost www folder
